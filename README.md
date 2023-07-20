@@ -1,10 +1,13 @@
 # Microsoft-venture-into-the-movie-industry
 
+![image](https://github.com/EvangelineNgunjiri/Microsoft-venture-into-the-movie-industry/assets/133154189/07fc052e-d8a3-48c4-bcf9-64d525462c50)
+
 # <span style="color: blue; font-size: 24px;">Overview</span>
 
 The project will primarily focus on the genres of movie films doing well in the industry at the Box Office. The goal is to provide the best recommendations to Microsoft for their new movie studio. As a result, this should guide Microsoft into making the most informed decisions through understanding of the films that are most popular in terms of performance in the industry. This will also bring in a competitive advantage into an already existing market.
 
 # <span style="color: blue; font-size: 24px;">Business Problem</span>
+![image](https://github.com/EvangelineNgunjiri/Microsoft-venture-into-the-movie-industry/assets/133154189/306f3986-dbd3-43bd-8840-2fdc4d605788)
 
 Microsoft is considering venturing into the entertainment industry, specifically movie creation. However, it does not have full information necessary to enter into the industry and be successful. Therefore, the aim is to provide relevant data that enables the company to acquire insights into the popularity of various films in order to venture the market successfully.
 
@@ -24,7 +27,6 @@ The objectives of this project are:
 
 # <span style="color: blue; font-size: 24px;">Data Understanding</span>
 
-
 In this project, we will work with movie datasets which will provide the following information:
 1. Movie titles
 2. Movie genre
@@ -41,7 +43,6 @@ The data is contained in fie separate csv files
 
 # <span style="color: blue; font-size: 24px;">Load the datasets</span>
 
-
 Create a dataframes title_basics and movie_gross that represent the two CSV files. Use pandas methods to inspect the shape and other attributes of these dataframes.
 
 # <span style="color: blue; font-size: 24px;">Data Cleaning</span>
@@ -55,7 +56,6 @@ Creation of joins is necessary to ease analysis of data and investigate relation
 # <span style="color: blue; font-size: 24px;">Analysis of the movie industry competitiveness</span>
 
 In the cells below, i am going to analyse the competitiveness of the existing movie industry based on the cleaned and merged data above. I will look into the profitability of different genres, profitability per studio, and the ratings of genres.
-
 
 # <span style="color: blue; font-size: 24px;">Budgeted domestic profit per movie</span>
 
@@ -112,7 +112,6 @@ From the graph above,besides English, the top 3 most popular languages are fr, j
 The least 3 popular languages are sv,da and hi
 
 # <span style="color: blue; font-size: 24px;">Conclusion</span>
-
 
 **1. Diversify movie languages**- Apart from English dominated areas, there are other niche markets that are dominated by other langauges. It is important for the movie industries to prioritize inclusivity for all people and races.
 

@@ -60,7 +60,6 @@ In the cells below, i am going to analyse the competitiveness of the existing mo
 # <span style="color: blue; font-size: 24px;">Budgeted domestic profit per movie</span>
 
 ![image](https://github.com/EvangelineNgunjiri/Microsoft-venture-into-the-movie-industry/assets/133154189/5b355e0c-12ee-4657-a5f0-a486347f2e0b)
-
 ### <span style="color: blue; font-size: 24px;">Observation</span>
 
 From the graph above, the bars represent the budgeted profitability while the line graph represents the production cost for the top 10 profit making movies. 
